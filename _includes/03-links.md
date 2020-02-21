@@ -1,1 +1,1 @@
-[link to github profile][https://github.com/brainy099]
+[link to github profile](https://github.com/brainy099)
